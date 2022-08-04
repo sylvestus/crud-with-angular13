@@ -1,0 +1,68 @@
+{
+  "productsList": [
+    {
+      "productName": "suzuki hyabusa",
+      "category": "sports",
+      "seasons": "Two months",
+      "price": 424000,
+      "comment": "1400cc",
+      "date": "2022-07-19T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "suzuki gixer",
+      "category": "sports",
+      "seasons": "Three months",
+      "price": 560000,
+      "comment": "250 cc",
+      "date": "2022-07-19T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Beneli 600i",
+      "category": "sports",
+      "seasons": "Two months",
+      "price": 800000,
+      "comment": "600cc",
+      "date": "2022-07-20T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Tekken 250",
+      "category": "Adventure",
+      "seasons": "Two months",
+      "price": 250000,
+      "comment": "cool bike",
+      "date": "2022-07-24T21:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "mt-03",
+      "category": "sports",
+      "seasons": "Two months",
+      "price": 3000,
+      "comment": "cool bike",
+      "date": "2022-08-15T21:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "hyosung gtr650",
+      "category": "sports",
+      "seasons": "One month",
+      "price": 4500,
+      "comment": "sounds amazing",
+      "date": "2022-08-23T21:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
